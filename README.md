@@ -177,7 +177,8 @@ The following could be coming for further releases:
 I've tried to do my best to produce thoroughly readable and commented code (except for parts that are mostly self-describing, like connecting GUI signals) for most modules, so you can contribute.
 
 
-## Licensing
+## Licensing 
+Thank's to Muaadh
 
 As pbtk uses PyQt, it is released under the [GNU GPL](https://www.gnu.org/licenses/gpl-3.0.html) license (I, hereby, etc.) I would likely have chosen something public domain-like otherwise.
 
